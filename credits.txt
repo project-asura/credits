@@ -1,6 +1,6 @@
 Github: https://github.com/project-asura
-Github dev: 
-Github Gui Dev: 
-Github Auth Dev: 
-Discord: 
+Github Owner: https://github.com/baum1810
+Github Gui Dev: https://github.com/Hyva-arch
+Github Helper: https://github.com/zIFxbixn  
+Discord Invite: https://dsc.gg/project-asura
 
